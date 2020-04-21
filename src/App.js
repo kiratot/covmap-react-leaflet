@@ -20,7 +20,7 @@ function App() {
  
   
   useEffect(() => {
-    fetch("https://corona.lmao.ninja/countries")
+    fetch("https://corona.lmao.ninja/v2/countries")
       .then((response) => response.json())
       .then((data) => {
         const hasData = Array.isArray(data) && data.length > 0;
