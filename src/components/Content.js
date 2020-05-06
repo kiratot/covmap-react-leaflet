@@ -18,7 +18,7 @@ const Content = () => {
             https://github.com/novelcovid/api
           </a>
         </p>
-        <p>Source code for this project <a href ="https://github.com/kiratot/covid-react-leaflet-map"> here</a></p>
+        <p>Source code for this project <a href ="https://github.com/kiratot/covmap-react-leaflet"> here</a></p>
         <code> #StayAtHome and stay safe </code>
       </Container>
     );
